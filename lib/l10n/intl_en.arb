@@ -1,0 +1,10 @@
+{
+  "price": "price {price} &",
+  "@price": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "name": "name",
+  "location": "location"
+}
